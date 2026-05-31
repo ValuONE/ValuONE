@@ -1,6 +1,6 @@
 # Valentin Piendl · `ValuONE`
 
-I build websites and web apps end to end. Freelancing since 2021, mostly with the TypeScript and .NET ecosystems.
+I build websites and web apps end to end. Freelancing since 2021, mostly with Next.js and TypeScript.
 
 🌐 [pndl.net](https://pndl.net) · 📫 me@pndl.net
 
